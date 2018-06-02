@@ -1,0 +1,7 @@
+{
+  "api": {
+    "morgan": {
+      "format": "dev"
+    }
+  }
+}
